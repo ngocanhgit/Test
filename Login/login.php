@@ -20,7 +20,7 @@
     if(isset($_POST["btnsubmit"])){
         if($_POST["uname"] == "admin" && $_POST["psw"] == "admin")
         {
-            echo("Đăng nhap thanh cong");
+            echo("Đăng nhap thaành cong");
         }else 
             echo("Đăng nhap thất bại");
     }
