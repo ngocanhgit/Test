@@ -22,7 +22,7 @@
         {
             echo("Đăng nhap thaành cong");
         }else 
-            echo("Đăng nhap thất bại");
+            echo("Đăng nhập thất bại");
     }
 
 
