@@ -12,8 +12,8 @@
     <input type="password" name="psw" required>
 
     <button type="submit" name= "btnsubmit">Login</button>   
-    <p>Hello Đăng 2 </p>
-
+    <p>Hello Ánh 2</p>
+    
   </div>
   </div>
 </form>
