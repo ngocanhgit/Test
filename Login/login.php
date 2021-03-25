@@ -20,9 +20,9 @@
     if(isset($_POST["btnsubmit"])){
         if($_POST["uname"] == "admin" && $_POST["psw"] == "admin")
         {
-            echo("Đăng nhap thanh cong");
+            echo("Đăng nhập thành công");
         }else 
-            echo("Đăng nhap thất bại");
+            echo("Đăng nhập thất bại");
     }
 
 
